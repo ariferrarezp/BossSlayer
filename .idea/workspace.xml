@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eee0d2c8-e5fb-4011-8d12-be37ee443708" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Boss Slayer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Batalha.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Mago f1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/ataque_mago.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/atk_centro_boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/atk_lateral_boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/defeat_music.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/derrota.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/fundo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/mago_posição2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/menu.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/morte_mago.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/tela_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/victory_music.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/vitoria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/entities/Boss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/entities/BossShot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/entities/Entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/entities/Player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/entities/PlayerShot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/factory/EntityFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/movements/BossMovement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/movements/PlayerMovement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/scenes/Battle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/scenes/Defeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/scenes/Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/scenes/Victory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/systems/Collision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/systems/HUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/systems/Score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/systems/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3FSYtQwvlVuSnk0Yn9vOjRDzdjV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ferra/PycharmProjects/Boss Slayer/asset",
+    "settings.editor.selected.configurable": "fileTemplates"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ferra\PycharmProjects\Boss Slayer\asset" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ferra\PycharmProjects\Boss Slayer\code\systems" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eee0d2c8-e5fb-4011-8d12-be37ee443708" name="Changes" comment="" />
+      <created>1782070152422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782070152422</updated>
+    </task>
+    <servers />
+  </component>
+</project>

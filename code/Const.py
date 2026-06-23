@@ -1,0 +1,11 @@
+import pygame
+
+WIN_WIDTH = 1280
+WIN_HEIGHT = 720
+FPS = 60
+
+PLAYER_SPEED = 7
+BOSS_SPEED = 2
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
