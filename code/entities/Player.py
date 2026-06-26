@@ -7,3 +7,4 @@ class Player(Entity):
 
         self.hp = 100
         self.max_hp = 100
+        self.speed = 5

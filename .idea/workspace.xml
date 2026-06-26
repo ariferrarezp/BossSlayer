@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eee0d2c8-e5fb-4011-8d12-be37ee443708" name="Changes" comment="Imagens desenhadas e posicionadas, classes criadas img, e sons adicionados" />
+    <list default="true" id="eee0d2c8-e5fb-4011-8d12-be37ee443708" name="Changes" comment="Imagens desenhadas e posicionadas, classes criadas img, e sons adicionados">
+      <change afterPath="$PROJECT_DIR$/asset/batalha_final.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/dano_mago.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/explosion.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/risada_boss.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/scenes/History.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/scenes/Score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Batalha.wav" beforeDir="false" afterPath="$PROJECT_DIR$/asset/batalha.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/atk_centro_boss.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/atk_principal_boss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/entities/Boss.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entities/Boss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/entities/BossShot.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entities/BossShot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/entities/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entities/Player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/entities/PlayerShot.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entities/PlayerShot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/movements/BossMovement.py" beforeDir="false" afterPath="$PROJECT_DIR$/DBScore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/movements/PlayerMovement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/scenes/Battle.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/scenes/Battle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/scenes/Defeat.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/scenes/Defeat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/scenes/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/scenes/Menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/scenes/Victory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/scenes/Victory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/systems/Collision.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/systems/HUD.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/systems/Score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/systems/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +47,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ariferrarezp&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ariferrarezp/BossSlayer.git&quot;,
+    &quot;accountId&quot;: &quot;69e43976-9fa1-4b0f-8255-3539a758d592&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -33,6 +72,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Battle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Boss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Const.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Defeat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EntityFactory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PlayerMovement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Victory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -72,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782218993273</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Imagens desenhadas e posicionadas, classes criadas img, e sons adicionados">
+      <option name="closed" value="true" />
+      <created>1782219056649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782219056649</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
